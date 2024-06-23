@@ -19,7 +19,7 @@
   ## ● Top Selling Categories
   ## ● Top Selling Products
   ## ● Regional sales
-## 4-Built Predictive Model (logistic Regression, Random Forest, Decision Tree)
+## 4-Built Predictive Model (Random Forest, Decision Tree)
 ## 5-created Dashboard using Dash & Plotly
 ![image](https://github.com/shroukMohamedAlaa/Slash-Data-Analysis-Task/assets/101405248/dda3fee9-8032-4fa9-a5ed-03c235954430)
 
